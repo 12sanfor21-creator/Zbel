@@ -1,8 +1,5 @@
 -- ============================================
---   Auto Collector v13 - Final Clean Edition
---   ✅ Instagram + Admin + Anti-AFK + Color Picker
---   ✅ Take Job + Auto Equip Broom
---   ✅ Speed 3.00 | Distance 1500
+--   Realistic Morocco
 -- ============================================
 
 local Players = game:GetService("Players")
